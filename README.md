@@ -61,6 +61,8 @@ Step 3: Activate the Virtual Environment (rerun this step every time you open a 
 
 Make sure you enabled `Web User Interface` in qBittorrent > settings > WebUI. Tick `Bypass authentication for clients on localhost` if you are using localhost as the url so you can get rid of `--username --password`.
 
+![](assets/2025-05-26-22-53-14.png)
+
 ```bash
 usage: main.py [-h] [-U URL] [-u USERNAME] [-p PASSWORD] old_tracker_url new_tracker_url
 
